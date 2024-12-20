@@ -1,3 +1,9 @@
+#Integrantes de la tarea 3 del modulo 3:
+#Nombre                                      Correos:
+#Tobias Alexander Santamria Diaz             tobias.santamaria@baccredomatic.sv
+#Carlos Isaac Flores Aparicio                carlos.flores@baccredomatic.sv
+#Willian Alexander Saravia Cuellar           willian.saravia@baccredomatic.sv
+#Carlos Eduardo Fuentes Romero               carlos_romero@baccredomatic.sv
 #!/usr/bin/env python
 # coding: utf-8
 
